@@ -1,0 +1,617 @@
+[
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/AppUtil.cpp.o -c /home/timo/synergy2/src/lib/core/AppUtil.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/AppUtil.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/FileChunk.cpp.o -c /home/timo/synergy2/src/lib/core/FileChunk.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/FileChunk.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/PortableTaskBarReceiver.cpp.o -c /home/timo/synergy2/src/lib/core/PortableTaskBarReceiver.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/PortableTaskBarReceiver.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/IKeyState.cpp.o -c /home/timo/synergy2/src/lib/core/IKeyState.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/IKeyState.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/DropHelper.cpp.o -c /home/timo/synergy2/src/lib/core/DropHelper.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/DropHelper.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ServerArgs.cpp.o -c /home/timo/synergy2/src/lib/core/ServerArgs.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ServerArgs.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ToolArgs.cpp.o -c /home/timo/synergy2/src/lib/core/ToolArgs.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ToolArgs.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/KeyState.cpp.o -c /home/timo/synergy2/src/lib/core/KeyState.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/KeyState.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/Chunk.cpp.o -c /home/timo/synergy2/src/lib/core/Chunk.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/Chunk.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/DaemonApp.cpp.o -c /home/timo/synergy2/src/lib/core/DaemonApp.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/DaemonApp.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ServerTaskBarReceiver.cpp.o -c /home/timo/synergy2/src/lib/core/ServerTaskBarReceiver.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ServerTaskBarReceiver.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/StreamChunker.cpp.o -c /home/timo/synergy2/src/lib/core/StreamChunker.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/StreamChunker.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ArgParser.cpp.o -c /home/timo/synergy2/src/lib/core/ArgParser.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ArgParser.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/IPrimaryScreen.cpp.o -c /home/timo/synergy2/src/lib/core/IPrimaryScreen.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/IPrimaryScreen.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ServerApp.cpp.o -c /home/timo/synergy2/src/lib/core/ServerApp.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ServerApp.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/App.cpp.o -c /home/timo/synergy2/src/lib/core/App.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/App.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/PacketStreamFilter.cpp.o -c /home/timo/synergy2/src/lib/core/PacketStreamFilter.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/PacketStreamFilter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ToolApp.cpp.o -c /home/timo/synergy2/src/lib/core/ToolApp.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ToolApp.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ClientArgs.cpp.o -c /home/timo/synergy2/src/lib/core/ClientArgs.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ClientArgs.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ClientTaskBarReceiver.cpp.o -c /home/timo/synergy2/src/lib/core/ClientTaskBarReceiver.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ClientTaskBarReceiver.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/XSynergy.cpp.o -c /home/timo/synergy2/src/lib/core/XSynergy.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/XSynergy.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/protocol_types.cpp.o -c /home/timo/synergy2/src/lib/core/protocol_types.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/protocol_types.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ClientApp.cpp.o -c /home/timo/synergy2/src/lib/core/ClientApp.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ClientApp.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/key_types.cpp.o -c /home/timo/synergy2/src/lib/core/key_types.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/key_types.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ClipboardChunk.cpp.o -c /home/timo/synergy2/src/lib/core/ClipboardChunk.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ClipboardChunk.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/PlatformScreen.cpp.o -c /home/timo/synergy2/src/lib/core/PlatformScreen.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/PlatformScreen.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/IPlatformScreen.cpp.o -c /home/timo/synergy2/src/lib/core/IPlatformScreen.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/IPlatformScreen.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/KeyMap.cpp.o -c /home/timo/synergy2/src/lib/core/KeyMap.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/KeyMap.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ArgsBase.cpp.o -c /home/timo/synergy2/src/lib/core/ArgsBase.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ArgsBase.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/IClipboard.cpp.o -c /home/timo/synergy2/src/lib/core/IClipboard.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/IClipboard.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/Clipboard.cpp.o -c /home/timo/synergy2/src/lib/core/Clipboard.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/Clipboard.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/ProtocolUtil.cpp.o -c /home/timo/synergy2/src/lib/core/ProtocolUtil.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/ProtocolUtil.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/Screen.cpp.o -c /home/timo/synergy2/src/lib/core/Screen.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/Screen.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/XScreen.cpp.o -c /home/timo/synergy2/src/lib/core/XScreen.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/XScreen.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/DragInformation.cpp.o -c /home/timo/synergy2/src/lib/core/DragInformation.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/DragInformation.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/core.dir/unix/AppUtilUnix.cpp.o -c /home/timo/synergy2/src/lib/core/unix/AppUtilUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/core/unix/AppUtilUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/ArchDaemonNone.cpp.o -c /home/timo/synergy2/src/lib/arch/ArchDaemonNone.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/ArchDaemonNone.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/IArchString.cpp.o -c /home/timo/synergy2/src/lib/arch/IArchString.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/IArchString.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/Arch.cpp.o -c /home/timo/synergy2/src/lib/arch/Arch.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/Arch.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/ArchConsoleStd.cpp.o -c /home/timo/synergy2/src/lib/arch/ArchConsoleStd.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/ArchConsoleStd.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchMultithreadPosix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchMultithreadPosix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchMultithreadPosix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchConsoleUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchConsoleUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchConsoleUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchNetworkBSD.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchNetworkBSD.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchNetworkBSD.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchSleepUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchSleepUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchSleepUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchSystemUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchSystemUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchSystemUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchInternetUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchInternetUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchInternetUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/XArchUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/XArchUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/XArchUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchTaskBarXWindows.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchTaskBarXWindows.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchTaskBarXWindows.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchDaemonUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchDaemonUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchDaemonUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchTimeUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchTimeUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchTimeUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchLogUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchLogUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchLogUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchStringUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchStringUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchStringUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/arch",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/arch.dir/unix/ArchFileUnix.cpp.o -c /home/timo/synergy2/src/lib/arch/unix/ArchFileUnix.cpp",
+  "file": "/home/timo/synergy2/src/lib/arch/unix/ArchFileUnix.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/EventQueue.cpp.o -c /home/timo/synergy2/src/lib/base/EventQueue.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/EventQueue.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/SimpleEventQueueBuffer.cpp.o -c /home/timo/synergy2/src/lib/base/SimpleEventQueueBuffer.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/SimpleEventQueueBuffer.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/EventTypes.cpp.o -c /home/timo/synergy2/src/lib/base/EventTypes.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/EventTypes.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/Unicode.cpp.o -c /home/timo/synergy2/src/lib/base/Unicode.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/Unicode.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/Log.cpp.o -c /home/timo/synergy2/src/lib/base/Log.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/Log.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/Event.cpp.o -c /home/timo/synergy2/src/lib/base/Event.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/Event.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/FunctionJob.cpp.o -c /home/timo/synergy2/src/lib/base/FunctionJob.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/FunctionJob.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/XBase.cpp.o -c /home/timo/synergy2/src/lib/base/XBase.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/XBase.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/log_outputters.cpp.o -c /home/timo/synergy2/src/lib/base/log_outputters.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/log_outputters.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/Stopwatch.cpp.o -c /home/timo/synergy2/src/lib/base/Stopwatch.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/Stopwatch.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/FunctionEventJob.cpp.o -c /home/timo/synergy2/src/lib/base/FunctionEventJob.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/FunctionEventJob.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/base",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/base.dir/String.cpp.o -c /home/timo/synergy2/src/lib/base/String.cpp",
+  "file": "/home/timo/synergy2/src/lib/base/String.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/client",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/client.dir/ServerProxy.cpp.o -c /home/timo/synergy2/src/lib/client/ServerProxy.cpp",
+  "file": "/home/timo/synergy2/src/lib/client/ServerProxy.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/client",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/client.dir/Client.cpp.o -c /home/timo/synergy2/src/lib/client/Client.cpp",
+  "file": "/home/timo/synergy2/src/lib/client/Client.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/common",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/common.dir/Version.cpp.o -c /home/timo/synergy2/src/lib/common/Version.cpp",
+  "file": "/home/timo/synergy2/src/lib/common/Version.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/io",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/io.dir/StreamFilter.cpp.o -c /home/timo/synergy2/src/lib/io/StreamFilter.cpp",
+  "file": "/home/timo/synergy2/src/lib/io/StreamFilter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/io",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/io.dir/StreamBuffer.cpp.o -c /home/timo/synergy2/src/lib/io/StreamBuffer.cpp",
+  "file": "/home/timo/synergy2/src/lib/io/StreamBuffer.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/io",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/io.dir/XIO.cpp.o -c /home/timo/synergy2/src/lib/io/XIO.cpp",
+  "file": "/home/timo/synergy2/src/lib/io/XIO.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/Ipc.cpp.o -c /home/timo/synergy2/src/lib/ipc/Ipc.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/Ipc.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/IpcClientProxy.cpp.o -c /home/timo/synergy2/src/lib/ipc/IpcClientProxy.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/IpcClientProxy.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/IpcLogOutputter.cpp.o -c /home/timo/synergy2/src/lib/ipc/IpcLogOutputter.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/IpcLogOutputter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/IpcServer.cpp.o -c /home/timo/synergy2/src/lib/ipc/IpcServer.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/IpcServer.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/IpcMessage.cpp.o -c /home/timo/synergy2/src/lib/ipc/IpcMessage.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/IpcMessage.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/IpcClient.cpp.o -c /home/timo/synergy2/src/lib/ipc/IpcClient.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/IpcClient.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/ipc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/ipc.dir/IpcServerProxy.cpp.o -c /home/timo/synergy2/src/lib/ipc/IpcServerProxy.cpp",
+  "file": "/home/timo/synergy2/src/lib/ipc/IpcServerProxy.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/mt",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/mt.dir/Mutex.cpp.o -c /home/timo/synergy2/src/lib/mt/Mutex.cpp",
+  "file": "/home/timo/synergy2/src/lib/mt/Mutex.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/mt",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/mt.dir/Lock.cpp.o -c /home/timo/synergy2/src/lib/mt/Lock.cpp",
+  "file": "/home/timo/synergy2/src/lib/mt/Lock.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/mt",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/mt.dir/CondVar.cpp.o -c /home/timo/synergy2/src/lib/mt/CondVar.cpp",
+  "file": "/home/timo/synergy2/src/lib/mt/CondVar.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/mt",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/mt.dir/XMT.cpp.o -c /home/timo/synergy2/src/lib/mt/XMT.cpp",
+  "file": "/home/timo/synergy2/src/lib/mt/XMT.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/mt",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/mt.dir/Thread.cpp.o -c /home/timo/synergy2/src/lib/mt/Thread.cpp",
+  "file": "/home/timo/synergy2/src/lib/mt/Thread.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/TCPListenSocket.cpp.o -c /home/timo/synergy2/src/lib/net/TCPListenSocket.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/TCPListenSocket.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/SecureSocket.cpp.o -c /home/timo/synergy2/src/lib/net/SecureSocket.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/SecureSocket.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/XSocket.cpp.o -c /home/timo/synergy2/src/lib/net/XSocket.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/XSocket.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/NetworkAddress.cpp.o -c /home/timo/synergy2/src/lib/net/NetworkAddress.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/NetworkAddress.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/IDataSocket.cpp.o -c /home/timo/synergy2/src/lib/net/IDataSocket.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/IDataSocket.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/TCPSocketFactory.cpp.o -c /home/timo/synergy2/src/lib/net/TCPSocketFactory.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/TCPSocketFactory.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/SocketMultiplexer.cpp.o -c /home/timo/synergy2/src/lib/net/SocketMultiplexer.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/SocketMultiplexer.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/SecureListenSocket.cpp.o -c /home/timo/synergy2/src/lib/net/SecureListenSocket.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/SecureListenSocket.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/net",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/net.dir/TCPSocket.cpp.o -c /home/timo/synergy2/src/lib/net/TCPSocket.cpp",
+  "file": "/home/timo/synergy2/src/lib/net/TCPSocket.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsUtil.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsUtil.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsUtil.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboard.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboard.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboard.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsScreenSaver.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsScreenSaver.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsScreenSaver.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsScreen.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsScreen.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsScreen.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboardAnyBitmapConverter.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboardAnyBitmapConverter.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboardAnyBitmapConverter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboardUTF8Converter.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboardUTF8Converter.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboardUTF8Converter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsEventQueueBuffer.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsEventQueueBuffer.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsEventQueueBuffer.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsKeyState.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsKeyState.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsKeyState.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboardTextConverter.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboardTextConverter.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboardTextConverter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboardUCS2Converter.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboardUCS2Converter.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboardUCS2Converter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboardHTMLConverter.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboardHTMLConverter.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboardHTMLConverter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/platform",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/platform.dir/XWindowsClipboardBMPConverter.cpp.o -c /home/timo/synergy2/src/lib/platform/XWindowsClipboardBMPConverter.cpp",
+  "file": "/home/timo/synergy2/src/lib/platform/XWindowsClipboardBMPConverter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_1.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_1.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_1.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_4.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_4.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_4.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxyUnknown.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxyUnknown.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxyUnknown.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_3.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_3.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_3.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_2.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_2.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_2.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_0.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_0.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_0.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/Config.cpp.o -c /home/timo/synergy2/src/lib/server/Config.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/Config.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_6.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_6.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_6.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/BaseClientProxy.cpp.o -c /home/timo/synergy2/src/lib/server/BaseClientProxy.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/BaseClientProxy.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/PrimaryClient.cpp.o -c /home/timo/synergy2/src/lib/server/PrimaryClient.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/PrimaryClient.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/InputFilter.cpp.o -c /home/timo/synergy2/src/lib/server/InputFilter.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/InputFilter.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientProxy1_5.cpp.o -c /home/timo/synergy2/src/lib/server/ClientProxy1_5.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientProxy1_5.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/Server.cpp.o -c /home/timo/synergy2/src/lib/server/Server.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/Server.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/server",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/server.dir/ClientListener.cpp.o -c /home/timo/synergy2/src/lib/server/ClientListener.cpp",
+  "file": "/home/timo/synergy2/src/lib/server/ClientListener.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/lib/shared",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/shared.dir/SerialKey.cpp.o -c /home/timo/synergy2/src/lib/shared/SerialKey.cpp",
+  "file": "/home/timo/synergy2/src/lib/shared/SerialKey.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/cmd/core",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/synergy-core.dir/main.cpp.o -c /home/timo/synergy2/src/cmd/core/main.cpp",
+  "file": "/home/timo/synergy2/src/cmd/core/main.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/cmd/synergyc",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/synergyc.dir/synergyc.cpp.o -c /home/timo/synergy2/src/cmd/synergyc/synergyc.cpp",
+  "file": "/home/timo/synergy2/src/cmd/synergyc/synergyc.cpp"
+},
+{
+  "directory": "/home/timo/synergy2-build/src/cmd/synergys",
+  "command": "/usr/bin/clang++-3.9   -DHAVE_CONFIG_H -DSYNERGY_BUILD_DATE=\\\"20171014\\\" -DSYNERGY_BUILD_NUMBER=1 -DSYNERGY_REVISION=\\\"8d440e68\\\" -DSYNERGY_VERSION=\\\"2.0.0\\\" -DSYNERGY_VERSION_STRING=\\\"2.0.0-snapshot.b1-8d440e68\\\" -DSYSAPI_UNIX=1 -DWINAPI_XWINDOWS=1 -isystem /home/timo/synergy2/./ext/gtest/include -I/home/timo/synergy2/src/./lib -I/home/timo/synergy2-build/src/lib   -fPIC -g   -std=c++14 -o CMakeFiles/synergys.dir/synergys.cpp.o -c /home/timo/synergy2/src/cmd/synergys/synergys.cpp",
+  "file": "/home/timo/synergy2/src/cmd/synergys/synergys.cpp"
+}
+]
